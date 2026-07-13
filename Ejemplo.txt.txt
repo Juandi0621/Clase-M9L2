@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 print("Hello World");
 print("How are you");
+=======
+print("Hello World");
+print("How are you");
+a = 1
+print(a);
+>>>>>>> 5e65750d1827fc2d83a022429375e07ddb47730b
